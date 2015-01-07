@@ -11,7 +11,7 @@ http://docs.vagrantup.com/v2/docker/basics.html
 
 ## Requirements (for OSX)
  - Homebrew (= XCode CLI tools too)
- - `brew cask tap caskroom/homebrew-cask`
+ - `brew tap caskroom/homebrew-cask`
  - `brew cask install virtualbox vagrant`
 
 ## Usage
